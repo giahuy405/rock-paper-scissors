@@ -291,6 +291,9 @@
    .infoGame h1{
     font-size: 29px;
    }
+   .think img {
+      left: 18%!important;
+   }
 }
 @media screen and (max-width:550px){
   .cont{
